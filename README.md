@@ -1,2 +1,2 @@
-# tagunzet
-My testing repository
+# Python souce code 
+Тут буду хранить свои исходники
